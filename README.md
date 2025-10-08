@@ -5,7 +5,7 @@
 ## 레벨1 - 코틀린 미션
 |미션명|레포지토리|PR 1|PR 2|
 |---|---|---|---|
-|자동차 경주|[레포지토리](https://github.com/chanho0908/kotlin-racingcar/tree/step1)|[1단계 PR](https://github.com/woowacourse/kotlin-racingcar/pull/147)|[2단계 PR](https://github.com/woowacourse/kotlin-racingcar/pull/160)|
+|자동차 경주|[레포지토리](https://github.com/chanho0908/kotlin-racingcar/tree/step2)|[1단계 PR](https://github.com/woowacourse/kotlin-racingcar/pull/147)|[2단계 PR](https://github.com/woowacourse/kotlin-racingcar/pull/160)|
 |로또|[레포지토리](https://github.com/chanho0908/kotlin-lotto/tree/chanho0908)|[1단계 PR](https://github.com/woowacourse/kotlin-lotto/pull/124)|[2단계 PR](https://github.com/woowacourse/kotlin-lotto/pull/129)|
 |블랙잭|[레포지토리](https://github.com/chanho0908/kotlin-blackjack/tree/chanho0908)|[1단계 PR](https://github.com/woowacourse/kotlin-blackjack/pull/123)|[2단계 PR](https://github.com/woowacourse/kotlin-blackjack/pull/150)|
 |오목|[레포지토리](https://github.com/chanho0908/kotlin-omok/tree/chanho0908)|[1,2단계 PR](https://github.com/woowacourse/kotlin-omok/pull/110)|[3,4단계 PR](https://github.com/woowacourse/kotlin-omok/pull/132)|
@@ -36,3 +36,16 @@
 - `Repository` 패턴과 Doamin Model을 Doamin Model 답게 사용하기 위해 노력해 ViewModel의 비즈니스 로직을 최소화 했어요
 - 모킹과 테스트 더블을 통해 `Repository와` `ViewModel` 테스트하는 법을 학습했어요
 - `Retrofit2`의 내부 구조를 [이해](https://chanho-study.tistory.com/168)하고 이를 활용해 [미니 세션](https://www.slideshare.net/slideshow/ss-2abb/282718117)을 진행했어요
+
+## 레벨3 팀 프로젝트 '토독토독'
+[팀 프로젝트 레포지토리](https://github.com/woowacourse-teams/2025-Todok-Todok)
+
+## 레벨4 - 컴포즈/만들면서 배우는 DI
+|미션명|레포지토리|PR 1|PR 2|PR 3|PR 4|
+|---|---|---|---|---|---|
+|페이먼츠|[레포지토리](https://github.com/chanho0908/android-movie-ticket/tree/step4)|[1단계 PR](https://github.com/woowacourse/android-payments/pull/5)|[2단계 PR](https://github.com/woowacourse/android-payments/pull/28)|[3단계 PR](https://github.com/woowacourse/android-payments/pull/68)|[4단계 PR](https://github.com/woowacourse/android-payments/pull/82)|
+### 미션에서 이런 것을 배웠어요✌️
++ TDD를 기반으로 Compose를 사용해 UI를 구현하고 테스트하는 방법에 대해 학습했어요
++ 공식문서에서 가이드하는 Modifier의 규칙에 대해 이해했어요.
++ `CompositionLocal`을 사용해 파라미터 드릴링(Parameter Drilling)을 해결하는 방법과 상태 호이스팅에 대해 학습했어요.
++ `Stateful`와 `Stateless`에 대해 학습하고 `StateHolder`를 사용한 상태관리 방법에 대해 이해했어요.
