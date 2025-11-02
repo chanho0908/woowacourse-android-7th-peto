@@ -7,7 +7,7 @@
 |---|---|---|---|
 |자동차 경주|[레포지토리](https://github.com/chanho0908/kotlin-racingcar/tree/step2)|[1단계 PR](https://github.com/woowacourse/kotlin-racingcar/pull/147)|[2단계 PR](https://github.com/woowacourse/kotlin-racingcar/pull/160)|
 |로또|[레포지토리](https://github.com/chanho0908/kotlin-lotto/tree/chanho0908)|[1단계 PR](https://github.com/woowacourse/kotlin-lotto/pull/124)|[2단계 PR](https://github.com/woowacourse/kotlin-lotto/pull/129)|
-|블랙잭|[레포지토리](https://github.com/chanho0908/kotlin-blackjack/tree/chanho0908)|[1단계 PR](https://github.com/woowacourse/kotlin-blackjack/pull/123)|[2단계 PR](https://github.com/woowacourse/kotlin-blackjack/pull/150)|
+|블랙잭|[레포지토리](https://github.com/chanho0908/kotlin-blackjack/tree/step2)|[1단계 PR](https://github.com/woowacourse/kotlin-blackjack/pull/123)|[2단계 PR](https://github.com/woowacourse/kotlin-blackjack/pull/150)|
 |오목|[레포지토리](https://github.com/chanho0908/kotlin-omok/tree/chanho0908)|[1,2단계 PR](https://github.com/woowacourse/kotlin-omok/pull/110)|[3,4단계 PR](https://github.com/woowacourse/kotlin-omok/pull/132)|
 
 ### 미션에서 이런 것을 배웠어요✌️
@@ -40,12 +40,16 @@
 ## 레벨3 팀 프로젝트 '토독토독'
 [팀 프로젝트 레포지토리](https://github.com/woowacourse-teams/2025-Todok-Todok)
 
-## 레벨4 - 컴포즈/만들면서 배우는 DI
-|미션명|레포지토리|PR 1|PR 2|PR 3|PR 4|
-|---|---|---|---|---|---|
-|페이먼츠|[레포지토리](https://github.com/chanho0908/android-movie-ticket/tree/step4)|[1단계 PR](https://github.com/woowacourse/android-payments/pull/5)|[2단계 PR](https://github.com/woowacourse/android-payments/pull/28)|[3단계 PR](https://github.com/woowacourse/android-payments/pull/68)|[4단계 PR](https://github.com/woowacourse/android-payments/pull/82)|
+## 레벨 4 - 컴포즈 / 만들면서 배우는 DI
+
+| 미션명 | 레포지토리 | PR 1 | PR 2 | PR 3 | PR 4 |
+|--------|-------------|------|------|------|------|
+| 페이먼츠 | [레포지토리](https://github.com/chanho0908/android-movie-ticket/tree/step4) | [1단계 PR](https://github.com/woowacourse/android-payments/pull/5) | [2단계 PR](https://github.com/woowacourse/android-payments/pull/28) | [3단계 PR](https://github.com/woowacourse/android-payments/pull/68) | [4단계 PR](https://github.com/woowacourse/android-payments/pull/82) |
+| 만들면서 배우는 DI | [레포지토리](https://github.com/woowacourse/android-di/tree/chanho0908) | [1단계 PR](https://github.com/woowacourse/android-di/pull/155) | [2,3단계 PR](https://github.com/woowacourse/android-di/pull/178) | [4단계 PR](https://github.com/woowacourse/android-di/pull/211) |
+
 ### 미션에서 이런 것을 배웠어요✌️
 + TDD를 기반으로 Compose를 사용해 UI를 구현하고 테스트하는 방법에 대해 학습했어요
 + 공식문서에서 가이드하는 Modifier의 규칙에 대해 이해했어요.
 + `CompositionLocal`을 사용해 파라미터 드릴링(Parameter Drilling)을 해결하는 방법과 상태 호이스팅에 대해 학습했어요.
 + `Stateful`와 `Stateless`에 대해 학습하고 `StateHolder`를 사용한 상태관리 방법에 대해 이해했어요.
++ `Reflection`을 사용해 수동 `DI`를 직접 구현하는 방법을 학습했어요.
